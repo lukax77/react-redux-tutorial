@@ -1,0 +1,9 @@
+{
+  "name": "React Redux Tutorial Server",
+  "description": "Code from the React Redux tutorial",
+  "keywords": [ "react", "reactjs", "redux", "tutorial" ],
+  "repository": "https://github.com/lukax77/react-redux-tutorial",
+  "website": "http://github.com/lukax77/react-redux-tutorial",
+  "success_url": "/"
+}
+
